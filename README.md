@@ -78,7 +78,7 @@
             }
         }
 
-    }).render(canvas, context);
+    }).render(canvas, context, ratio);
 </script>
 ```
 
@@ -127,7 +127,7 @@ button.addEventListener('click', function (e) {
 
 ## 大转盘抽奖
 
-[查看演示效果](https://musiky.github.io/canvas-luckyDraw/rouletteWheel.html)
+[查看演示效果](https://lhy58.github.io/canvas-lottery/rouletteWheel.html)
 
 **最简单的使用：**
 ``` html
@@ -203,7 +203,7 @@ button.addEventListener('click', function (e) {
 
 ## 刮刮卡抽奖
 
-[查看演示效果](https://musiky.github.io/canvas-luckyDraw/scratchCard.html)
+[查看演示效果](https://lhy58.github.io/canvas-lottery/scratchCard.html)
 
 **最简单的使用：**
 ``` html
