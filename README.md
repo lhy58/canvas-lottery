@@ -33,7 +33,7 @@
 
 ### 九宫格抽奖
 
-[查看演示效果](https://musiky.github.io/canvas-luckyDraw/sudoku.html)
+[查看演示效果](https://github.com/lhy58/canvas-lottery/sudoku.html)
 
 **最简单的使用：**
 ``` html
